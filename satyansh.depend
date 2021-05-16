@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574587582 source:d:\hp\desktop\satyansh\main.cpp
+	<iostream>
+	<utility>
+	<map>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
